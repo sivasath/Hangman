@@ -1,0 +1,16 @@
+.full-content{
+	max-height:300;
+	overflow: hidden;
+	}
+
+.input-blanks{
+	
+    
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #000000 1px;
+    padding: 3px 10px;
+    }
